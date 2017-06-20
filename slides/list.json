@@ -14,10 +14,106 @@
       }
     },
     {
+      "filename": "intro/verge.md",
+      "attr": {
+        "data-state": "intro",
+        "data-background-image": "/resources/is/verge.png",
+        "id": "verge"
+      }
+    },
+    {
+      "filename": "intro/how.md",
+      "attr": {
+        "data-state": "intro",
+        "data-background-image": "/resources/is/how.gif",
+        "id": "how"
+      }
+    },
+    {
       "filename": "intro/is.md",
       "attr": {
         "data-state": "intro",
         "id": "is"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "https/https.md",
+      "attr": {
+        "data-state": "https",
+        "data-background-image": "/resources/https/but-why.webp",
+        "id": "https"
+      }
+    },
+    {
+      "filename": "https/privacy.md",
+      "attr": {
+        "data-state": "https",
+        "data-background-image": "/resources/https/privacy.gif",
+        "id": "privacy"
+      }
+    },
+    {
+      "filename": "https/security.md",
+      "attr": {
+        "data-state": "https",
+        "data-background-image": "/resources/https/security.webp",
+        "id": "security"
+      }
+    },
+    {
+      "filename": "https/performance.md",
+      "attr": {
+        "data-state": "https",
+        "data-background-image": "/resources/https/performance.gif",
+        "id": "performance"
+      }
+    },
+    {
+      "filename": "https/hard.md",
+      "attr": {
+        "data-state": "https",
+        "id": "hard"
+      }
+    }
+  ],
+  [
+    {
+      "filename": "identify/identify.md",
+      "attr": {
+        "data-state": "identify",
+        "data-background-image": "/resources/identify/searching.gif",
+        "id": "identify"
+      }
+    },
+    {
+      "filename": "identify/chrome.md",
+      "attr": {
+        "data-state": "identify",
+        "id": "chrome"
+      }
+    },
+    {
+      "filename": "identify/changes.md",
+      "attr": {
+        "data-state": "identify",
+        "id": "changes"
+      }
+    },
+    {
+      "filename": "identify/servers.md",
+      "attr": {
+        "data-state": "identify",
+        "id": "servers"
+      }
+    },
+    {
+      "filename": "identify/kickoff.md",
+      "attr": {
+        "data-state": "identify",
+        "data-background-image": "/resources/identify/kickoff.gif",
+        "id": "kickoff"
       }
     }
   ],
@@ -46,8 +142,9 @@
     {
       "filename": "wrap/fin.md",
       "attr": {
-        "data-state": "wrap",
-        "id": "fin"
+        "data-state": "vox-product",
+        "id": "fin",
+        "data-background-color": "white"
       }
     }
   ]

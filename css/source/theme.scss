@@ -158,6 +158,11 @@ html {
     margin-bottom: .75em;
   }
 
+  section img {
+    box-shadow: none;
+    border: 0;
+  }
+
   .slides-link {
     font-size: 2.5em;
     margin-top: .5em;
@@ -173,6 +178,17 @@ html {
   .small {
     text-transform: lowercase !important;
   }
+
+	h2.dark {
+		padding: 0.45em;
+  	background-color: rgba(0, 0, 0, .55);
+	}
+
+	.headshot {
+		float: left;
+		max-width: 50%;
+	}
+
 }
 
 
@@ -203,7 +219,7 @@ $bg-colors: (
   'lime-green': #97e52d,
   'dark-green': #00944A,
   'steel-blue': #2090b4,
-  'red': rgba(200, 50, 30, 1)
+  'red': rgba(200, 50, 30, 1),
 );
 
 .backgrounds {
@@ -215,6 +231,7 @@ $bg-colors: (
   .intro & {
     background-color: black;
   }
+
 }
 
 [data-state="intro"] {
