@@ -17,7 +17,7 @@
       "filename": "intro/verge.md",
       "attr": {
         "data-state": "intro",
-        "data-background-image": "/resources/is/verge.png",
+        "data-background-image": "https://iamcarrico.github.io/resources/is/verge.png",
         "id": "verge"
       }
     },
@@ -25,7 +25,7 @@
       "filename": "intro/how.md",
       "attr": {
         "data-state": "intro",
-        "data-background-image": "/resources/is/how.gif",
+        "data-background-image": "https://iamcarrico.github.io/resources/is/how.gif",
         "id": "how"
       }
     },
@@ -42,7 +42,7 @@
       "filename": "https/https.md",
       "attr": {
         "data-state": "https",
-        "data-background-image": "/resources/https/but-why.webp",
+        "data-background-image": "https://iamcarrico.github.io/resources/https/but-why.webp",
         "id": "https"
       }
     },
@@ -50,7 +50,7 @@
       "filename": "https/privacy.md",
       "attr": {
         "data-state": "https",
-        "data-background-image": "/resources/https/privacy.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/https/privacy.gif",
         "id": "privacy"
       }
     },
@@ -58,7 +58,7 @@
       "filename": "https/security.md",
       "attr": {
         "data-state": "https",
-        "data-background-image": "/resources/https/security.webp",
+        "data-background-image": "https://iamcarrico.github.io/resources/https/security.webp",
         "id": "security"
       }
     },
@@ -66,7 +66,7 @@
       "filename": "https/performance.md",
       "attr": {
         "data-state": "https",
-        "data-background-image": "/resources/https/performance.gif",
+        "data-background-image": "https://iamcarrico.github.io/resources/https/performance.gif",
         "id": "performance"
       }
     },
@@ -83,7 +83,7 @@
       "filename": "identify/identify.md",
       "attr": {
         "data-state": "identify",
-        "data-background-image": "/resources/identify/searching.gif",
+        "data-background-image": "https://iamcarrico.github.io/resources/identify/searching.gif",
         "id": "identify"
       }
     },
@@ -112,7 +112,7 @@
       "filename": "identify/kickoff.md",
       "attr": {
         "data-state": "identify",
-        "data-background-image": "/resources/identify/kickoff.gif",
+        "data-background-image": "https://iamcarrico.github.io/resources/identify/kickoff.gif",
         "id": "kickoff"
       }
     }
