@@ -179,7 +179,9 @@ html {
     text-transform: lowercase !important;
   }
 
-	h2.dark {
+	h2.dark,
+  h3.dark,
+  .dark {
 		padding: 0.45em;
   	background-color: rgba(0, 0, 0, .55);
 	}
@@ -187,6 +189,10 @@ html {
 	.headshot {
 		float: left;
 		max-width: 50%;
+	}
+
+	.no-text-transform {
+		text-transform: none;
 	}
 
 }
@@ -230,6 +236,10 @@ $bg-colors: (
 
   .intro & {
     background-color: black;
+  }
+
+	.certs & {
+    background-color: map-get($bg-colors, 'steel-blue');
   }
 
 }
