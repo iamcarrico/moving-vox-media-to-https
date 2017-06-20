@@ -278,6 +278,22 @@
       }
     },
     {
+      "filename": "cool/geolocation.md",
+      "attr": {
+        "data-state": "cool",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/cool/geolocation.gif",
+        "id": "geolocation"
+      }
+    },
+    {
+      "filename": "cool/payments.md",
+      "attr": {
+        "data-state": "cool",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/cool/payments.webp",
+        "id": "payments"
+      }
+    },
+    {
       "filename": "cool/service-workers.md",
       "attr": {
         "data-state": "cool",
