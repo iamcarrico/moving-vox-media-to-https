@@ -369,13 +369,18 @@ body {
 .reveal .small {
   text-transform: lowercase !important; }
 
-.reveal h2.dark {
+.reveal h2.dark,
+.reveal h3.dark,
+.reveal .dark {
   padding: 0.45em;
   background-color: rgba(0, 0, 0, 0.55); }
 
 .reveal .headshot {
   float: left;
   max-width: 50%; }
+
+.reveal .no-text-transform {
+  text-transform: none; }
 
 .intro .reveal .controls div.navigate-left {
   border-right-color: white; }
@@ -394,6 +399,9 @@ body {
 
 .intro .backgrounds {
   background-color: black; }
+
+.certs .backgrounds {
+  background-color: #2090b4; }
 
 [data-state="intro"] {
   color: white; }
