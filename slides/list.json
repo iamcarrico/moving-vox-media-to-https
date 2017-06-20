@@ -143,7 +143,7 @@
       "filename": "certs/certbot.md",
       "attr": {
         "data-state": "certs",
-        "data-background-image": "/resources/certs/certbot.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/certs/certbot.gif",
         "id": "certbot"
       }
     },
@@ -151,7 +151,7 @@
       "filename": "certs/local.md",
       "attr": {
         "data-state": "certs",
-        "data-background-image": "/resources/certs/self-evident.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/certs/self-evident.gif",
         "id": "local-certs"
       }
     }
@@ -177,7 +177,7 @@
       "filename": "csp/crossing-guard.md",
       "attr": {
         "data-state": "csp",
-        "data-background-image": "/resources/csp/crossing-guard.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/csp/crossing-guard.gif",
         "id": "crossing-guard"
       }
     },
@@ -185,7 +185,7 @@
       "filename": "csp/block.md",
       "attr": {
         "data-state": "csp",
-        "data-background-image": "/resources/csp/block.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/csp/block.gif",
         "id": "block"
       }
     },
@@ -193,7 +193,7 @@
       "filename": "csp/upgrade.md",
       "attr": {
         "data-state": "csp",
-        "data-background-image": "/resources/csp/upgrade.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/csp/upgrade.gif",
         "id": "upgrade"
       }
     },
@@ -201,7 +201,7 @@
       "filename": "csp/report.md",
       "attr": {
         "data-state": "csp",
-        "data-background-image": "/resources/csp/reports.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/csp/reports.gif",
         "id": "report"
       }
     },
@@ -225,7 +225,7 @@
       "filename": "hsts/max-age.md",
       "attr": {
         "data-state": "hsts",
-        "data-background-image": "/resources/hsts/max-age.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/hsts/max-age.gif",
         "id": "max-age"
       }
     },
@@ -233,7 +233,7 @@
       "filename": "hsts/subdomains.md",
       "attr": {
         "data-state": "hsts",
-        "data-background-image": "/resources/hsts/subdomains.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/hsts/subdomains.gif",
         "id": "subdomains"
       }
     },
@@ -241,7 +241,7 @@
       "filename": "hsts/preload.md",
       "attr": {
         "data-state": "hsts",
-        "data-background-image": "/resources/hsts/preload.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/hsts/preload.gif",
         "id": "preload"
       }
     },
@@ -265,7 +265,7 @@
       "filename": "cool/http2.md",
       "attr": {
         "data-state": "cool",
-        "data-background-image": "/resources/cool/http2.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/cool/http2.gif",
         "id": "http2"
       }
     },
@@ -273,7 +273,7 @@
       "filename": "cool/notifications.md",
       "attr": {
         "data-state": "cool",
-        "data-background-image": "/resources/cool/notifications.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/cool/notifications.gif",
         "id": "notifications"
       }
     },
@@ -281,7 +281,7 @@
       "filename": "cool/service-workers.md",
       "attr": {
         "data-state": "cool",
-        "data-background-image": "/resources/cool/service-workers.gif",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/cool/service-workers.gif",
         "id": "service-workers"
       }
     }
