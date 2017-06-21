@@ -2,4 +2,4 @@
 
 Note:
 
-We realized that
+To start, our local domains are not real TLDs, so we were able to create local certificates that are self-signed.
