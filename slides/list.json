@@ -161,7 +161,29 @@
       "filename": "content/content.md",
       "attr": {
         "data-state": "content",
+        "data-background-image": "https://iamcarrico.github.io/moving-vox-media-to-https/resources/content/content.gif",
         "id": "content"
+      }
+    },
+    {
+      "filename": "content/services.md",
+      "attr": {
+        "data-state": "content",
+        "id": "services"
+      }
+    },
+    {
+      "filename": "content/embed.md",
+      "attr": {
+        "data-state": "content",
+        "id": "embed"
+      }
+    },
+    {
+      "filename": "content/ads.md",
+      "attr": {
+        "data-state": "content",
+        "id": "ads"
       }
     }
   ],
